@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "adm-zip": "^0.4.11",
-    "backbone": "^0.2.0",
+    "backbone": "^0.5.0",
     "ejs": "^2.4.2",
     "js-yaml": "^3.13.1",
     "qs": "^6.0.4"
